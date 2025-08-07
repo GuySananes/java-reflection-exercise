@@ -17,7 +17,3 @@ build/
 
 # Windows system files
 Thumbs.db
-
-# Optional: if using Maven or Gradle, add:
-target/
-.gradle/
