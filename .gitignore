@@ -1,0 +1,23 @@
+# IntelliJ project files
+.idea/
+*.iml
+
+# Compiled Java files
+*.class
+
+# Logs
+*.log
+
+# Build output (Maven / Gradle / Manual)
+out/
+build/
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Optional: if using Maven or Gradle, add:
+target/
+.gradle/
